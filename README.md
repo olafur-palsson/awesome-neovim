@@ -1360,6 +1360,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
 - [timseriakov/spamguard.nvim](https://github.com/timseriakov/spamguard.nvim) - Detects excessive key spamming (jjjj/kkkk) and suggests more efficient alternatives.
 - [millerjason/neovimacs.nvim](https://github.com/millerjason/neovimacs.nvim) - Provides emacs movement and buffer keybindings while in insert mode.
+- [olafur-palsson/nvim-function-class-motions](https://github.com/olafur-palsson/nvim-function-class-motions) - Provides motions like dif to delete inside functions.
 
 ### Tree-sitter Based
 
